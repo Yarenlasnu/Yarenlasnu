@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbda61,100:ff5acd&height=240&section=header&text=Hacer%20Yaren%20Ünsal&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Data%20Science%20Lover&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbda61,100:ff5acd&height=240&section=header&text=Hacer%20Yaren%20Ünsal&fontSize=45&fontColor5E2B97&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Data%20Science%20Lover&descAlignY=60&descAlign=50"/>
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&color=F74393&center=true&vCenter=true&width=550&lines=Veriyle+anlam+bulurum.;Yapay+zeka;Veri+bilimi;Makine+öğrenmesi+">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&color=F74393&center=true&vCenter=true&width=550&lines=Veri;Yapay+zeka;Veri+bilimi;Makine+öğrenmesi+">
 </p>
 
 ---
