@@ -30,7 +30,7 @@ Gerek izlediğim diziler/filmler olsun, gerek gittiğim mekanlar, okuduğum kita
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,flask,mysql,git,github,pandas,keras,tensorflow,matplotlib,keras,powerbi,tableau,excel,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,flask,mysql,git,github,tensorflow,vscode,docker" />
 </p>
 
 
