@@ -40,7 +40,7 @@ Gerek izlediğim diziler/filmler olsun, gerek gittiğim mekanlar, okuduğum kita
 
 <p align="center">
   <a href="mailto:haceryarenunsal@example.com"><img src="https://img.shields.io/badge/E--posta-%23FF5E99?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kendi-linkin(https://www.linkedin.com/in/yarenunsal/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yarenunsal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Yarenlasnu"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
