@@ -14,7 +14,7 @@ Gerek izlediğim diziler/filmler olsun, gerek gittiğim mekanlar, okuduğum kita
 
 - Hedefim: **Veri Bilimi + Bankacılık** alanında kariyer  
 - İlgi Alanlarım: Python, Java, Makine Öğrenmesi, Yapay Zeka, Risk Analizi 
-- Otomotiv Staj Projem: Kesme Fire Optimizasyonu (Python + ExcelVBA + Pareto
+- Otomotiv Staj Projem: Tek Boyutlu Hammadde Kesim Optimizasyonu 
 - Bitirme Projem: Bankacılık Sektöründe Makine Öğrenimi ile Müşteri Tahmin Analizi
 
 ---
