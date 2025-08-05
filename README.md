@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">✨ Hacer Yaren Ünsal ✨</h1>
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi • Data Bilimi Aşığı • Java & Python Tutkunu</h3>
 
-<!--
-**Yarenlasnu/Yarenlasnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F79E00&center=true&vCenter=true&width=440&lines=Merhaba%2C+ben+Hacer!;Veri+bilimi+ile+dünyayı+anlamaya+çalışıyorum.;Projeler+%2B+Analiz+%2B+Yapay+Zeka+%3D+❤️" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Hakkımda
+
+- 🎓 Düzce Üniversitesi | Bilgisayar Mühendisliği | 
+- 🎯 **Hedefim:**  **Veri Bilimi** ile fark yaratmak  
+- 💡 **İlgi Alanlarım:**  
+  `Veri Bilimi` • `Makine Öğrenmesi` • `Optimizasyon Algoritmaları` • `Java Spring Projeleri`
+- 🔬 **Bitirme Projem:** Python ile Hammadde Fire Optimizasyonu + VBA Dashboard + Pareto
+- 📚 Sürekli öğreniyor, arştırıyor, geliştiriyor ve belgeleyerek paylaşıyorum.
+
+---
+
+## 🌟 Teknolojik Yeteneklerim
+
+```text
+Python       
+Java          
+SQL           
+VBA & Excel   
+
+
