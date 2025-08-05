@@ -1,10 +1,5 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbda61,100:ff5acd&height=240&section=header&text=Hacer%20Yaren%20Ünsal&fontSize=45&fontColor5E2B97&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Data%20Science%20Lover&descAlignY=60&descAlign=50"/>
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&color=F74393&center=true&vCenter=true&width=550&lines=Veri;Yapay+zeka;Veri+bilimi;Makine+öğrenmesi+">
 </p>
 
@@ -26,10 +21,12 @@ Gerek izlediğim diziler/filmler olsun, gerek gittiğim mekanlar, okuduğum kita
 
 ## Öne Çıkan Projeler
 
- [Telefon Rehberi Sistemi](https://github.com/kullaniciadi/java-rehber) | Spring MVC + Hibernate ile Admin & Kullanıcı Paneli |
- [Johari Testi Web App](https://github.com/kullaniciadi/johari-test) | Flask + OpenAI + Görsel Üretim + Kişilik Testi |
-
-
+ [Telefon Rehberi Sistemi](https://github.com/Yarenlasnu/corporateDirectoryApp) 
+ Spring MVC + Hibernate ile Admin & Kullanıcı Paneli
+ 
+ [Johari Testi Web App](https://github.com/Yarenlasnu/JohariWindowApp)
+ Flask + Yapay Zeka + Görsel Üretim + Kişilik Testi |
+ 
 
 
 <p align="center">
