@@ -1,11 +1,11 @@
-<!-- Başlık Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbda61,100:ff5acd&height=240&section=header&text=Hacer%20Yaren%20Ünsal&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Data%20Science%20Lover&descAlignY=60&descAlign=50"/>
 </p>
 
-<!-- Kayan Yazı -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&color=F74393&center=true&vCenter=true&width=550&lines=Veriyle+anlam+bulurum.;Yapay+zeka+ile+geleceği+şekillendiririm.;Kod+yazmak+benim+dilimdi.;Bankacılıkta+veri+bilimi+ile+fark+yaratmak+istiyorum.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&color=F74393&center=true&vCenter=true&width=550&lines=Veriyle+anlam+bulurum.;Yapay+zeka;Veri+bilimi;Makine+öğrenmesi+">
 </p>
 
 ---
@@ -13,9 +13,9 @@
 ## Hakkımda
 
 Merhaba! Ben Hacer Yaren Ünsal.  
-Düzce Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim.  
-Kodlamayı sadece teknik bir beceri değil, aynı zamanda bir ifade biçimi olarak görüyorum.  
-Verilerle hikaye anlatmayı, makine öğrenmesiyle içgörü üretmeyi ve etkileyici projeler tasarlamayı seviyorum.
+Düzce Üniversitesi Bilgisayar Mühendisliği mezunuyum.  
+Kariyerime veri bilimi & yapay zeka alanında devam etmek istiyorum.
+Gerek izlediğim diziler/filmler olsun, gerek gittiğim mekanlar, okuduğum kitaplar, seyahat ettiğim şehirler vs. hepsi birer veridir aslında. Ve ben verileri biriktirmeyi yani somut bir şekilde görmeyi çok severim. Verilerin çoğaldıkça yarattığı karmaşıklık bana yaşadığımı hissettirir. Verilerimi görebilmek hoşuma gittiğinden onları bir yerde -ki bu genellikle teknoloji üzerinde oluyor-tutarım. Örneğin izlediğim filmleri letterboxd üzerinde kaydederim, okuduğum kitapları 1000 kitap platformuna kaydederim ve onların o veritabanında tutulduğunu bilmek, görmek hissiyatını yani bizzat verileri çok severim. Kariyerimi bu alanda geliştirme ilhamım direkt olarak veriye bakış açımdandır; yaşadıkça verilerimiz çoğalır, büyür ve karmaşıklaşır. 
 
 - Hedefim: **Veri Bilimi + Bankacılık** alanında kariyer  
 - İlgi Alanlarım: Python, Java, Makine Öğrenmesi, Yapay Zeka, Risk Analizi 
@@ -24,20 +24,19 @@ Verilerle hikaye anlatmayı, makine öğrenmesiyle içgörü üretmeyi ve etkile
 
 ---
 
-## 💼 Öne Çıkan Projeler
+## Öne Çıkan Projeler
 
  [Telefon Rehberi Sistemi](https://github.com/kullaniciadi/java-rehber) | Spring MVC + Hibernate ile Admin & Kullanıcı Paneli |
  [Johari Testi Web App](https://github.com/kullaniciadi/johari-test) | Flask + OpenAI + Görsel Üretim + Kişilik Testi |
 
----
 
-## 🛠️ Kullandığım Teknolojiler
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,spring,flask,mysql,git,github,pandas,keras,tensorflow,matplotlib,keras,powerbi,tableau,excel,vscode,docker" />
 </p>
 
----
+
 
 
 ## İletişim
