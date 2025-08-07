@@ -12,7 +12,7 @@ Düzce Üniversitesi Bilgisayar Mühendisliği mezunuyum.
 Kariyerime veri bilimi & yapay zeka alanında devam etmek istiyorum.
 Gerek izlediğim diziler/filmler olsun, gerek gittiğim mekanlar, okuduğum kitaplar, seyahat ettiğim şehirler vs. hepsi birer veridir aslında. Ve ben verileri biriktirmeyi yani somut bir şekilde görmeyi çok severim. Verilerin çoğaldıkça yarattığı karmaşıklık bana yaşadığımı hissettirir. Verilerimi görebilmek hoşuma gittiğinden onları bir yerde -ki bu genellikle teknoloji üzerinde oluyor-tutarım. Örneğin izlediğim filmleri letterboxd üzerinde kaydederim, okuduğum kitapları 1000 kitap platformuna kaydederim ve onların o veritabanında tutulduğunu bilmek, görmek hissiyatını yani bizzat verileri çok severim. Kariyerimi bu alanda geliştirme ilhamım direkt olarak veriye bakış açımdandır; yaşadıkça verilerimiz çoğalır, büyür ve karmaşıklaşır. 
 
-- Hedefim: **Veri Bilimi + Bankacılık** alanında kariyer  
+- Hedefim: **Veri Bilimi** alanında kariyer  
 - İlgi Alanlarım: Python, Java, Makine Öğrenmesi, Yapay Zeka, Risk Analizi 
 - Otomotiv Staj Projem: Tek Boyutlu Hammadde Kesim Optimizasyonu 
 - Bitirme Projem: Bankacılık Sektöründe Makine Öğrenimi ile Müşteri Tahmin Analizi
